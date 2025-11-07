@@ -1,8 +1,8 @@
 # Portfolio
 - [About me](#about-me)
 - [Skills](#skills)
-  * [INF-02](#inf--02)
-  * [INF-03](#inf--03)
+  * [INF-02](#inf-02)
+  * [INF-03](#inf-03)
 - [Tools](#tools)
 - [Courses](#courses)
 
