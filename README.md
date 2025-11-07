@@ -1,8 +1,8 @@
 # Portfolio
 - [About me](#about-me)
 - [Skills](#skills)
-  * [INF-02](#inf-02)
-  * [INF-03](#inf-03)
+  * [INF02](#inf-02)
+  * [INF03](#inf-03)
 - [Tools](#tools)
 - [Courses](#courses)
 
@@ -18,7 +18,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 ## Skills
 
-###INF-02:
+###INF02:
 
 * installing, configuring, and maintaining operating systems,
 * administering computer networks and peripheral devices,
@@ -26,7 +26,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 * ensuring system and data security,
 * monitoring the operation of local networks and optimizing their performance.
   
-###INF-03:
+###INF03:
 
 * designing and programming dynamic websites,
 * administering websites, including their optimization and content management,
